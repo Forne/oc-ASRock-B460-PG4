@@ -76,6 +76,8 @@
 			<false/>
 			<key>ResetLogoStatus</key>
 			<false/>
+			<key>SyncTableIds</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>Booter</key>
@@ -677,6 +679,8 @@
 		</dict>
 		<key>Scheme</key>
 		<dict>
+			<key>CustomKernel</key>
+			<false/>
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
@@ -768,7 +772,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>j137</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -929,9 +933,9 @@
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
-			<integer>0</integer>
+			<integer>20200306</integer>
 			<key>MinVersion</key>
-			<integer>0</integer>
+			<integer>1412101001000000</integer>
 		</dict>
 		<key>AppleInput</key>
 		<dict>
