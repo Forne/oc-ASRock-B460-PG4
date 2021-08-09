@@ -5,6 +5,10 @@ Compatible and tested with:
 * macOS 11 Big Sur
 * macOS 12 Monterey
 
+## Discussion
+* [AppleLife.ru](https://applelife.ru/threads/asrock-b460-phantom-gaming-4-opencore.2945275/)
+* [InsanelyMac.com](https://www.insanelymac.com/forum/topic/347619-asrock-b460-phantom-gaming-4/)
+
 ## Notice
 * Requires SystemUUID, SystemSerialNumber and ROM into PlatformInfo (use macserial utility from OpenCore / Utilities)
 * For i7-10700K and below processor, iMac20,1 is used. For i9-10850K and above iMac20.2
